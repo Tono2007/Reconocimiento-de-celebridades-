@@ -1,0 +1,10 @@
+c:\users\toño\documents\visual studio 2015\Projects\ia\ia\bin\Debug\ia.exe.config
+c:\users\toño\documents\visual studio 2015\Projects\ia\ia\bin\Debug\ia.exe
+c:\users\toño\documents\visual studio 2015\Projects\ia\ia\bin\Debug\ia.pdb
+c:\users\toño\documents\visual studio 2015\Projects\ia\ia\obj\Debug\ia.Form1.resources
+c:\users\toño\documents\visual studio 2015\Projects\ia\ia\obj\Debug\ia.Properties.Resources.resources
+c:\users\toño\documents\visual studio 2015\Projects\ia\ia\obj\Debug\ia.csproj.GenerateResource.Cache
+c:\users\toño\documents\visual studio 2015\Projects\ia\ia\obj\Debug\ia.exe
+c:\users\toño\documents\visual studio 2015\Projects\ia\ia\obj\Debug\ia.pdb
+C:\Users\Toño\Documents\Visual Studio 2015\Projects\ia\ia\obj\Debug\ia.csprojAssemblyReference.cache
+C:\Users\Toño\Documents\Visual Studio 2015\Projects\ia\ia\obj\Debug\ia.csproj.CoreCompileInputs.cache
